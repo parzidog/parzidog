@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kenny.</h1>
 <h3 align="center">A passionate full-stack developer who is currently living in Texas</h3>
 
-- 🔭 I’m currently working on ** a series of full stack web applications for a storage company**
+- 🔭 I’m currently working on **a series of full stack web applications for a storage company**
 
 - 🌱 I’m currently learning **Typescript along with the application and ethics of Machine Learning**
 
