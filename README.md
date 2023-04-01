@@ -11,7 +11,7 @@
 
 - 👨‍💻 An overview of my projects is available through [my Portfolio](https://parzidog.com).
 
-- 📫 How to reach me [here](parzidog@icloud.com).
+- 📫 How to reach me [here](mailto:parzidog@icloud.com).
 
 - 📄 Know about my experiences and download my resume from [my Portfolio](https://parzidog.com/#experience).
 
