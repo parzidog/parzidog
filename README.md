@@ -9,11 +9,11 @@
 
 - 🤝 I’m looking for help with **any tips while working with Typescript or React Native**
 
-- 👨‍💻 An overview of my projects is available through [my Portfolio](https://parzidog.com)
+- 👨‍💻 An overview of my projects is available through [my Portfolio](https://parzidog.com).
 
 - 📫 How to reach me **parzidog@icloud.com**
 
-- 📄 Know about my experiences and download my resume from [my Portfolio](https://parzidog.com/#experience)
+- 📄 Know about my experiences and download my resume from [my Portfolio](https://parzidog.com/#experience).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
