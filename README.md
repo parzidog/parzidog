@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **any tips while working with Typescript or React Native**
 
-- 👨‍💻 An overview of my projects is available at [parzidog.com](parzidog.com)
+- 👨‍💻 An overview of my projects is available through [my Portfolio](parzidog.com)
 
 - 📫 How to reach me **parzidog@icloud.com**
 
