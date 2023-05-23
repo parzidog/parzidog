@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Kenny.</h1>
+<h1 align="center">Hi, I'm Kenny. 👋</h1>
 <h3 align="center">A passionate full-stack developer who is currently living in Texas</h3>
 
-- 🔭 I’m currently working on **a series of full stack web applications for a storage company**
+- 🔭 I’m currently working on **a series of full stack web applications for a storage company and obtaining a couple of COMPTIA certifications**.
 
-- 🌱 I’m currently learning **Typescript along with the application and ethics of Machine Learning**
+- 🌱 I’m currently learning **Networking Fundamentals along with the application and ethics of Machine Learning**.
 
-- 👯 I’m looking to collaborate on **anything and everything**
+- 👯 I’m looking to collaborate on **anything and everything**.
 
-- 🤝 I’m looking for help with **any tips while working with Typescript or React Native**
+- 🤝 I’m looking for help with **any tips in gettting COMPTIA A+ and Networking+ certifications**.
 
 - 👨‍💻 An overview of my projects is available through [my Portfolio](https://parzidog.com).
 
